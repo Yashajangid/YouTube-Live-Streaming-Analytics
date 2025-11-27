@@ -65,3 +65,10 @@ Following are the list of queries we tried to answer using both Hadoop MapReduce
 3. Top 20 videos with largest number of dislikes.
 4. Top 10 viewed categories.
 5. Most watched categories per year
+# YouTube Live Streaming Analytics Pipeline 🚀
+*Big Data Demo: Kafka + Spark + Distributed Dashboard*
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-Streaming-brightgreen)](https://github.com/yourusername/youtube-streaming-demo)
+
+## 🎬 What This Project Does
+*Complete Big Data Pipeline* simulating:
