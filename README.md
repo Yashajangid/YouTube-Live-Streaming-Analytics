@@ -8,10 +8,10 @@ In the era of Big Data, Real-time analytics on streaming platforms like YouTube 
 This *Advanced Databases Project* implements a *complete distributed streaming pipeline* using *Kafka (message broker), **Spark (stream processing), and **Hadoop ecosystem* across *Master + 2 Worker nodes. We analyzed **400K+ real YouTube videos* from Kaggle dataset, achieving *real-time analytics* with *live dashboard visualization*.
 
 *Key Achievements:*
-- ✅ *Master Node*: Kafka broker + data ingestion
-- ✅ *Worker Nodes*: Spark processing + distributed analytics  
-- ✅ *Live UI*: Filterable dashboard (1M+ views, engagement %)
-- ✅ *Scalable*: Ready for Hadoop cluster deployment
+- *Master Node*: Kafka broker + data ingestion
+- *Worker Nodes*: Spark processing + distributed analytics  
+- *Live UI*: Filterable dashboard (1M+ views, engagement %)
+- *Scalable*: Ready for Hadoop cluster deployment
 
 ---
 
@@ -107,10 +107,10 @@ This *Advanced Databases Project* implements a *complete distributed streaming p
 This project successfully demonstrates *distributed real-time analytics* using *Master-Worker architecture* simulating production Hadoop/Kafka/Spark clusters. The pipeline processes *400K+ YouTube records* with *sub-second latency* and scales seamlessly.
 
 *Academic Contributions*:
-✅ *Hadoop Ecosystem*: Kafka ingestion + Spark processing  
-✅ *Distributed Systems*: Master orchestrates 2+ workers
-✅ *Real-time Analytics*: Live filtering + engagement metrics  
-✅ *Production Ready*: Containerized deployment capable
+*Hadoop Ecosystem*: Kafka ingestion + Spark processing  
+*Distributed Systems*: Master orchestrates 2+ workers
+*Real-time Analytics*: Live filtering + engagement metrics  
+*Production Ready*: Containerized deployment capable
 
 *Future Work*: Integrate HBase persistence, ML recommendations, multi-region Kafka.
 
