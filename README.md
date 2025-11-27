@@ -3,7 +3,7 @@
 
 ## ABSTRACT
 
-In the era of Big Data, real-time analytics on streaming platforms like YouTube has become critical for business intelligence and trend analysis. Traditional databases fail to handle the *Volume, Velocity, and Variety* of YouTube's streaming data (5B+ daily views, 300+ hours uploaded/minute).
+In the era of Big Data, Real-time analytics on streaming platforms like YouTube has become critical for business intelligence and trend analysis. Traditional databases fail to handle the *Volume, Velocity, and Variety* of YouTube's streaming data (5B+ daily views, 300+ hours uploaded/minute).
 
 This *Advanced Databases Project* implements a *complete distributed streaming pipeline* using *Kafka (message broker), **Spark (stream processing), and **Hadoop ecosystem* across *Master + 2 Worker nodes. We analyzed **400K+ real YouTube videos* from Kaggle dataset, achieving *real-time analytics* with *live dashboard visualization*.
 
